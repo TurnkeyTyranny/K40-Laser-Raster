@@ -1,7 +1,13 @@
 #!/usr/bin/python
 #
 #    imagetogcode
-#    Copyright 2013 Brian Adams
+#    Copyright 2015 Turnkey Tyranny
+#
+#    Changelog :
+#    18 March 2015 : Added image rastering optimisations to remove printing of whitespace. This was a pain in the ass to get right!
+#
+#
+#    Based off the work by Brian Adams
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
